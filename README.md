@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#  Cordel Anime
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto visa criar um pequeno livro de cordel que aborda três dos animes mais populares: Naruto, Dragon Ball e Pokémon. Utilizando a criatividade e a tradição do cordel brasileiro, o objetivo é narrar brevemente as histórias desses animes de forma poética e cativante.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT: Para a geração do conteúdo do cordel.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Estruturação dos versos e escolha das métricas e rimas características do cordel.
+- Utilização do ChatGPT para compor os versos e criar uma narrativa coesa e envolvente que representasse cada anime de forma autêntica.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O livro de cordel "A Saga dos Animes" foi criado com sucesso, apresentando versos rimados e narrativas breves sobre Naruto, Dragon Ball e Pokémon. Cada capítulo destaca os personagens principais, os desafios enfrentados e as jornadas emocionantes vividas por eles. O resultado é uma obra que busca capturar a essência e a magia desses animes tão queridos pelo público.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar um livro de cordel sobre animes usando apenas o ChatGPT foi um desafio interessante. Apesar de não ser uma aplicação convencional de IA, a ferramenta mostrou-se versátil e capaz de gerar conteúdo criativo dentro das métricas e do estilo do cordel. O desafio de criar algo 'natty' (natural) com IA foi superado com sucesso, demonstrando o potencial da tecnologia para inspirar novas formas de expressão artística.
